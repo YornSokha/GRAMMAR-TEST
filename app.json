@@ -1,0 +1,17 @@
+{
+  "name": "grammar-test",
+  "displayName": "grammar-test",
+  "expo": {
+    "name": "grammar-test",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
